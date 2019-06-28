@@ -1,8 +1,8 @@
-# Thesis Data
-Jupyter notebooks containing data preparation for my bachelor's thesis
+# Replacing Scientists by Machines - data preparation and analysis
+Jupyter notebooks containing data preparation and data analysis for my bachelor's thesis: Replacing Scientists by Machines.
 
 # EPPI-Reviewer and Automated Systematic review
-I ran bench-marking simulatons on these two software products, and their results are in the corresponding xlsx and csv files.
+Bench-marking simulations were ran on these two software products, and their results are in the corresponding xlsx and csv files.
 
 # Explanation of the folders and files
 
