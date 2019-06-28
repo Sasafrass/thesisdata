@@ -32,4 +32,4 @@ Jupyter notebook (python) file with analysis of the simulation results using pan
 File containing the results from Automated Systematic Review when retraining the model after each 10 abstracts. The data was sampled in the same way, so each index i corresponds to the ((i+1) * 10)th amount of abstracts screened.
 
 ### eppiresults.xlsx - file
-Results from the simulations that were ran on EPPI-Reviewer
+Results from the simulations that were run on EPPI-Reviewer
