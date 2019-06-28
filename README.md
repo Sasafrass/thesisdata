@@ -2,7 +2,7 @@
 Jupyter notebooks containing data preparation and data analysis for my bachelor's thesis: Replacing Scientists by Machines.
 
 # EPPI-Reviewer and Automated Systematic review
-Bench-marking simulations were ran on these two software products, and their results are in the corresponding xlsx and csv files.
+Bench-marking simulations were run on these two software products, and their results are in the corresponding xlsx and csv files.
 
 # Explanation of the folders and files
 
